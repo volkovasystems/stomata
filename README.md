@@ -1,0 +1,2 @@
+# stomata
+Mongo database storage.
